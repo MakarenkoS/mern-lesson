@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://Sid:12345@cluster0.1zliq.mongodb.net/api?retryWrites=true&w=majority",
+  "jwtSecret": "mern test",
+  "baseUrl": "http://localhost:5000"
+}
